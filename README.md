@@ -1,11 +1,9 @@
 ## Wood Stonecutter 
 
-This mod will allow the player to put in either wooden planks, logs or stripped logs of any type into a stonecutter. They can then be turned into any wooden item of the respective wood type with the correct (or as close to correct) amount of items outputted.
-Potentially will also overhall it more with features like putting slabs or stairs into the stonecutter and turning them into other wooden items that have the same or less wood to item ratio.
+This mod will allow the player to put in either wooden planks, logs or stripped logs of any type into a stonecutter. They can then be turned into any wooden item of the respective wood type with the correct (or as close to correct) amount of items outputted. 
 ## Details
 
-Current progress:
-Oak, spruce, dark oak, acacia, pale oak, crimson, warped, mangrove, birch, jungle, cherry, bamboo logs: (anything over 1 is halved for bamboo)       
+all logs/stems: (anything over 1 is halved for bamboo)       
 1 log -> 2 doors        
       -> 4 fences        
       -> 1 fence gate        
@@ -19,6 +17,11 @@ Oak, spruce, dark oak, acacia, pale oak, crimson, warped, mangrove, birch, jungl
       -> 1 wood        
       -> 1 stripped log        
       -> 1 stripped wood   
+  
+Stripped logs and wood and normal wood can be turned back into logs at a 1:1 ratio.  
+Bamboo also has all the mosaic variations.  
+Nether bricks can also be turned directly into nether brick fences.  
+  
 Iron, copper ingots:          
 1 ingot -> 3 bars              
         -> 1 chain          
